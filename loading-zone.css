@@ -1,0 +1,19 @@
+.loadingImg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.cspan {
+  text-align: center;
+  color: white;
+}
+
+body {
+  background-color: black;
+}
+
+p {
+  font-family: fantasy;
+}

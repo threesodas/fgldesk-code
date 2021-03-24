@@ -1,0 +1,89 @@
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: black;
+}
+
+h1 {
+  color: #FFFFFF;
+  text-shadow: 0 -1px 4px #FFF, 0 -2px 10px #ff0, 0 -10px 20px #ff8000, 0 -18px 40px #F00;
+}
+
+p {
+  color: #FFFFFF;
+  text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
+}
+
+span {
+  color: #FFFFFF;
+  text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
+}
+
+ul {
+  color: #FFFFFF;
+  text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
+}
+
+a:hover {
+  text-decoration: none;
+  color: white;
+  text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;
+}
+
+a {
+  text-decoration: none;
+  color: red;
+}
+
+button {
+  font-family: arial;
+  color: #14396A !important;
+  font-size: 14px;
+  text-shadow: 1px 1px 0px #7CACDE;
+  box-shadow: 0px 0px 7px #09B309;
+  padding: 17px 23px;
+  border-radius: 3px;
+  border: 4px outset #C2D46A;
+  background: #EEE956;
+  background: linear-gradient(to top, #EEE956, #4ACF11);
+}
+
+button:hover {
+  color: #6A4E0D !important;
+  background: #1DCF29;
+  background: linear-gradient(to top, #1DCF29, #BBD12A);
+}
+
+h2 {
+  color: #FFFFFF;
+  text-shadow: 0 -1px 4px #FFF, 0 -2px 10px #ff0, 0 -10px 20px #ff8000, 0 -18px 40px #F00;
+}
+
+.linebreak {
+  background-color: white;
+}
+
+.partnerButton {
+  font-family: arial;
+  color: #9FE0D5 !important;
+  font-size: 14px;
+  text-shadow: 2px 2px 1px #DE5E38;
+  box-shadow: 3px 3px 4px #F9A155;
+  padding: 20px 25px;
+  border-radius: 17px;
+  border: 2px solid #A36231;
+  background: #EE5A1A;
+  background: linear-gradient(to top, #EE5A1A, #CFCF19);
+}
+.partnerButton:hover {
+  color: #D17026 !important;
+  background: #CF8032;
+  background: linear-gradient(to top, #CF8032, #BEEE1F);
+}
+
+.ubh {
+  position: relative;
+  text-align: right;
+  color: black;
+  background-color: gray;
+}
